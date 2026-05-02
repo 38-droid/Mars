@@ -1,0 +1,170 @@
+body{
+    background-color: #FF934F;
+    font-family: Comic Sans MS;
+}
+a{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    color: white;
+  margin: 20px;
+    text-align: center;
+}
+.colony{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+nav{
+        border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img{
+    margin: 10px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.vyhladcol{
+    background-color: #BF3100;
+    padding: 20px;
+    border-radius: 20px;
+}
+.command{
+        background-color: #BF3100;
+    padding: 20px;
+    border-radius: 20px;
+}
+.dod{
+            background-color: #BF3100;
+    padding: 20px;
+    border-radius: 20px;
+}
+.basa{
+ padding: 10px;
+  border-radius: 20px;
+  border: 2px solid black;
+  margin-top: 20px;
+}
+.commanda{
+     padding: 10px;
+       margin-top: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.techno_1{
+     padding: 10px;
+       margin-top: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+footer{
+    background-color: #D36135;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.nasho{
+     padding: 10px;
+       margin-top: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.author{
+     padding: 10px;
+       margin-top: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.xallery{
+     padding: 10px;
+       margin-top: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.dodinfo{
+     padding: 10px;
+       margin-top: 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+.gall{
+            background-color: #BF3100;
+    padding: 20px;
+    border-radius: 20px;
+}
+.vyhladcol:hover{
+    transition: 0.2s;
+    background-color: #BA5A31;
+}
+.vyhladcol:active{
+    transition: 0.2s;
+    background-color: #A41623;
+}
+.command:hover{
+    transition: 0.2s;
+    background-color: #BA5A31;
+}
+.command:active{
+    transition: 0.2s;
+    background-color: #A41623;
+}
+.technovush:hover{
+    transition: 0.2s;
+    background-color: #BA5A31;
+}
+.technovush:active{
+    transition: 0.2s;
+    background-color: #A41623;
+}
+
+.dod:hover{
+    transition: 0.2s;
+    background-color: #BA5A31;
+}
+.dod:active{
+    transition: 0.2s;
+    background-color: #A41623;
+}
+.gall:hover{
+    transition: 0.2s;
+    background-color: #BA5A31;
+}
+.gall:active{
+    transition: 0.2s;
+    background-color: #A41623;
+}
+.ator:hover{
+    transition: 0.2s;
+    background-color: #BA5A31;
+}
+.ator:active{
+    transition: 0.2s;
+    background-color: #A41623;
+}
+
+.ator{
+            background-color: #BF3100;
+    padding: 20px;
+    border-radius: 20px;
+}
+.technovush{
+        background-color: #BF3100;
+    padding: 20px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
